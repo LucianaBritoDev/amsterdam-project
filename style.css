@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: orangered; 
+    font-size: 96px;
+    font-weight: 900;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: purple;
+    font-size: 30px;
+    font-style: italic;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-size: 18px;
+    text-align: justify;
+    text-indent: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h6 {
+    font-size: 10px;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+
+.bg {
+    height: 500px;
+    width: 100%;
+    background-color: #555;
+    background-image: url('https://i0.wp.com/tulipfestivalamsterdam.com/wp-content/uploads/2018/08/media_filer_public_thumbnails_filer_public_97_ca_97cab95b-b122-469e-8a69-9b23747aa617_180423llt6378.jpg__1200x1200_q85.jpg?fit=1200%2C800&ssl=1');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
